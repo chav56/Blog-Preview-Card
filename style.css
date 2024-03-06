@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(242, 210, 70);
+}
+
+.container {
+    background-color: white;
+    max-width: 23%;
+    border-radius: 15px;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    margin-left: 40%;
+    box-shadow: 10px 10px;
+    border-style: solid;
+}
+
+.learn img {
+    width: 90%;
+    margin-left: 18px;
+    margin-top: 4%;
+    border-radius: 12px;
+}
+
+.learn h3 {
+    font-size: small;
+    background-color: rgb(242, 210, 70);
+    max-width: 20%;
+    margin-left: 5%;
+    border-radius: 5px;
+    padding: 6px 6px;
+    width: fit-content;
+}
+
+.date {
+    margin-left: 15px;
+}
+
+.html {
+    margin-left: 15px;
+}
+
+.p1 {
+    margin-left: 15px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.author img {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.author h3{
+    font-size: small;
+    font-weight: 800px;
+}
+
+.attribution {
+     font-size: 11px;
+     text-align: center;
+    }
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
